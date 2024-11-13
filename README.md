@@ -58,4 +58,9 @@ I’m currently working on:
 
 ---
 
+![Nimash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimashXDilshan&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimashXDilshan&theme=dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=nimashXDilshan&theme=darkhub)
+
+
 Thanks for visiting my profile! 😊 Let’s connect and build something amazing together!
