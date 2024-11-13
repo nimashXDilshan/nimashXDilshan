@@ -17,6 +17,10 @@ I'm an aspiring software engineer and future YouTuber from Galle, Sri Lanka. I�
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-3.9-blueviolet?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.9-blueviolet?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 
 ### 🖥️ Frontend Development
 ![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react)
