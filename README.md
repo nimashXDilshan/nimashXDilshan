@@ -1,15 +1,30 @@
-# 👋 Hi, I'm Nimash Dilshan!
+# 👋 Hi, I'm **Nimash Dilshan!**
 
-I'm an aspiring software engineer and future YouTuber from Galle, Sri Lanka. I’m passionate about developing applications that make an impact and continuously improving my technical skills. Welcome to my GitHub profile!
+🎨 _An aspiring **Software Engineer** and future **YouTuber** passionate about crafting impactful applications._
+
+---
+
+## 🌟 **About Me**
+🌏 **From:** Galle, Sri Lanka  
+💡 **Dreams:** To become a skilled **Software Engineer** & inspiring **YouTuber**  
+🎮 **Hobbies:** Playing **Cricket** 🏏 and indulging in **Video Games** 🎮  
+🔥 **Passions:** Continuous learning & creating solutions that leave a mark  
 
 ---
 
-## 🚀 About Me
-- 🌍 I'm from **Galle, Sri Lanka**
-- 🎯 My ambition is to become a **Software Engineer** and a **YouTuber**
-- ⚽ Hobbies: **Playing Cricket** and **Video Games**
+## 🌈 **Fun Facts**
+- 🖥️ I enjoy experimenting with **cutting-edge technologies**  
+- 🎥 I’m planning to launch my **YouTube channel** soon—stay tuned!  
+- ⚡ I thrive on solving **challenging problems** and **innovating solutions**  
 
 ---
+
+### 💼 **Current Focus**
+🔧 Building innovative projects with **React**, **Node.js**, and **MongoDB**.  
+📚 Mastering **Software Development** & exploring **Content Creation**.  
+
+---
+
 
 ## 💼 Skills
 
