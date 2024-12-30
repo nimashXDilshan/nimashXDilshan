@@ -21,6 +21,7 @@
 
 ### 💼 **Current Focus**
 🔧 Building innovative projects with **React**, **Node.js**, and **MongoDB**.  
+now forcusing on banking app
 📚 Mastering **Software Development** & exploring **Content Creation**.  
 
 ---
