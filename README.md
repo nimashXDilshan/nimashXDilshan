@@ -72,7 +72,7 @@ I’m currently working on:
 
 ## 📝 Get in Touch  
 - 📫 Reach me via email: [nimashmanawa2002@gmail.com](mailto:nimashmanawa2002@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/nimashdilshan](https://linkedin.com/in/nimashdilshan) (Replace with your actual LinkedIn link)  
+- 🌐 LinkedIn: [linkedin.com/in/nimash-dilshan](https://linkedin.com/in/nimashdilshan)  
 
 ---
 
