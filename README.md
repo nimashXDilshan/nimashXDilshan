@@ -48,15 +48,17 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)  
 
 ### 📊 Database & Queries  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
 ![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=for-the-badge&logo=mysql)  
-- Skilled in **nested queries** and **aggregation functions**  
+- Skilled in **nested queries**, **aggregation functions**, and **database optimizations**  
 
----
-
-## 🛠️ Tools & Technologies  
+### 🛠️ Tools & Technologies  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)  
+ 
 
 ---
 
