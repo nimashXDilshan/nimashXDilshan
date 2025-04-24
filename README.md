@@ -1,84 +1,82 @@
-# Nimash Dilshan 👨‍💻
+# Nimash-Dilshan / README.md
 
-[![Email](https://img.shields.io/badge/Email-nimashmanawa2002%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:nimashmanawa2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nimash_Dilshan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nimash-dilshan-36b973305/)
-[![GitHub](https://img.shields.io/badge/GitHub-nimashXDilshan-181717?style=flat-square&logo=github)](https://github.com/nimashXDilshan)
+## Hi 👋, I'm Nimash
 
-> Software Engineer & Future Content Creator from Galle, Sri Lanka 🇱🇰
+- 🎓 Studying **Software Engineering** at University of Sri Lanka
+- 🌱 I'm currently learning **Next.js** and **Spring Boot**
+- 📫 How to reach me: [nimashmanawa2002@gmail.com](mailto:nimashmanawa2002@gmail.com)
+- 👨‍💻 Let's talk about **Web Development** and **Technology**
 
-## About Me ✨
+![Profile views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat&logo=github)
 
-Software engineering enthusiast with a passion for crafting impactful applications and sharing knowledge. Currently focused on full-stack development with modern technologies, while working toward launching a tech-focused YouTube channel.
+## 🌐 Socials:
 
-- 🔭 Working on a **Spring Boot project** and **bank system** using Next.js
-- 🌱 Learning advanced React patterns and backend scalability
-- 🎥 Preparing to launch a tech-focused YouTube channel
-- 🏏 Cricket player and video game enthusiast in free time
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimash-dilshan-36b973305/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nimashXDilshan)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nimashmanawa2002@gmail.com)
 
-## Tech Stack 🛠️
+## 💻 Tech Stack:
 
-### Languages
-```
-JavaScript (ES6+) | Java | Python | C/C++ | SQL
-```
+### Languages:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend
-```
-React | Next.js | Tailwind CSS | HTML/CSS
-```
+### Frontend:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-```
-Spring Boot | Node.js | Express.js
-```
+### Backend:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database
-```
-MongoDB | MySQL | PostgreSQL
-```
+### Database:
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools
-```
-Git | GitHub | Docker | Vite
-```
+### Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-## Current Projects 🚀
+## 🚀 Current Projects:
 
-- **Banking System** - Full-stack application built with Next.js and Spring Boot
-- **Component Library** - Custom React components with Tailwind CSS
-- **YouTube Channel** - Educational content on software development
+- 🏦 **Banking System** - Full-stack application built with Next.js and Spring Boot
+- 🧩 **Component Library** - Custom React components with Tailwind CSS
+- 📱 **Spring Boot Project** - Backend development with Java
 
-## GitHub Stats 📊
+## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimashXDilshan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimashXDilshan&theme=tokyonight" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nimashXDilshan&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="45%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimashXDilshan&theme=dark&hide_border=false" width="45%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nimashXDilshan&theme=nord&row=1&column=6" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nimashXDilshan&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1" width="90%" alt="GitHub Trophy"/>
 </div>
 
-## Skills Breakdown 🔧
+## 💡 About Me:
 
-### Database Expertise
-- Nested queries optimization
-- Aggregation functions
-- Performance tuning
-- Data modeling
+🌏 From **Galle, Sri Lanka**, I'm passionate about crafting impactful applications and continuous learning. When I'm not coding, you can find me playing cricket 🏏 or enjoying video games 🎮. I'm also planning to launch my YouTube channel soon to share my tech journey!
 
-### Development Focus
-- RESTful API design
-- Responsive UI/UX
-- Authentication systems
-- Microservices architecture
+## ⚡ Fun Facts:
 
-## Let's Connect! 🌐
-
-I'm always open to collaborating on projects and discussing new technologies. Feel free to reach out if you're interested in working together or just want to chat about software development!
+- 🖥️ I enjoy experimenting with cutting-edge technologies
+- 🎥 I'm planning to launch my YouTube channel soon—stay tuned!
+- ⚡ I thrive on solving challenging problems and innovating solutions
 
 ---
 
 <div align="center">
-  <i>Thanks for visiting my profile! Let's build something amazing together! 🚀</i>
+  <i>Thanks for visiting my profile! Let's connect and build something amazing together! 🚀</i>
 </div>
