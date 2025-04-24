@@ -1,82 +1,84 @@
-# 👋 Hi, I'm **Nimash Dilshan!**  
+# Nimash Dilshan 👨‍💻
 
-🎨 _An aspiring **Software Engineer** and future **YouTuber** passionate about crafting impactful applications._  
+[![Email](https://img.shields.io/badge/Email-nimashmanawa2002%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:nimashmanawa2002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nimash_Dilshan-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nimash-dilshan-36b973305/)
+[![GitHub](https://img.shields.io/badge/GitHub-nimashXDilshan-181717?style=flat-square&logo=github)](https://github.com/nimashXDilshan)
+
+> Software Engineer & Future Content Creator from Galle, Sri Lanka 🇱🇰
+
+## About Me ✨
+
+Software engineering enthusiast with a passion for crafting impactful applications and sharing knowledge. Currently focused on full-stack development with modern technologies, while working toward launching a tech-focused YouTube channel.
+
+- 🔭 Working on a **Spring Boot project** and **bank system** using Next.js
+- 🌱 Learning advanced React patterns and backend scalability
+- 🎥 Preparing to launch a tech-focused YouTube channel
+- 🏏 Cricket player and video game enthusiast in free time
+
+## Tech Stack 🛠️
+
+### Languages
+```
+JavaScript (ES6+) | Java | Python | C/C++ | SQL
+```
+
+### Frontend
+```
+React | Next.js | Tailwind CSS | HTML/CSS
+```
+
+### Backend
+```
+Spring Boot | Node.js | Express.js
+```
+
+### Database
+```
+MongoDB | MySQL | PostgreSQL
+```
+
+### Tools
+```
+Git | GitHub | Docker | Vite
+```
+
+## Current Projects 🚀
+
+- **Banking System** - Full-stack application built with Next.js and Spring Boot
+- **Component Library** - Custom React components with Tailwind CSS
+- **YouTube Channel** - Educational content on software development
+
+## GitHub Stats 📊
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nimashXDilshan&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimashXDilshan&theme=tokyonight" alt="GitHub Streak" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nimashXDilshan&theme=nord&row=1&column=6" alt="Trophy" />
+</div>
+
+## Skills Breakdown 🔧
+
+### Database Expertise
+- Nested queries optimization
+- Aggregation functions
+- Performance tuning
+- Data modeling
+
+### Development Focus
+- RESTful API design
+- Responsive UI/UX
+- Authentication systems
+- Microservices architecture
+
+## Let's Connect! 🌐
+
+I'm always open to collaborating on projects and discussing new technologies. Feel free to reach out if you're interested in working together or just want to chat about software development!
 
 ---
 
-## 🌟 **About Me**  
-🌏 **From:** Galle, Sri Lanka  
-💡 **Dreams:** To become a skilled **Software Engineer** & inspiring **YouTuber**  
-🎮 **Hobbies:** Playing **Cricket** 🏏 and indulging in **Video Games** 🎮  
-🔥 **Passions:** Continuous learning & creating solutions that leave a mark  
-
----
-
-## 🌈 **Fun Facts**  
-- 🖥️ I enjoy experimenting with **cutting-edge technologies**  
-- 🎥 I’m planning to launch my **YouTube channel** soon—stay tuned!  
-- ⚡ I thrive on solving **challenging problems** and **innovating solutions**  
-
----
-
-### 💼 **Current Focus**  
-🔧 Building innovative projects with **React**, **Node.js**, and **MongoDB**.  
-📚 Mastering **Software Development** & exploring **Content Creation**.  
-🚀 Currently working on a **Spring Boot project**  
-
----
-
-## 💼 Skills  
-
-### 🖥️ Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?style=for-the-badge&logo=javascript)  
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql)  
-![Python](https://img.shields.io/badge/Python-3.9-blueviolet?style=for-the-badge&logo=python)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)  
-
-### 🖥️ Frontend Development  
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
-![React](https://img.shields.io/badge/React-JS-61DAFB?style=for-the-badge&logo=react)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwind-css)  
-
-### ⚙️ Backend Development  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)  
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql)  
-
-### 📊 Database & Queries  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
-![SQL](https://img.shields.io/badge/SQL-MySQL-informational?style=for-the-badge&logo=mysql)  
-- Skilled in **nested queries**, **aggregation functions**, and **database optimizations**  
-
-### 🛠️ Tools & Technologies  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)  
-
----
-
-## 🌱 Learning Journey  
-I’m currently working on:  
-- **Building a bank system** using **Next.js**  
-- Developing **React components** like navigation bars, profile views, and sidebar elements with **Tailwind CSS**  
-- Strengthening backend skills with **Spring Boot**, **Express.js**, and **MySQL**  
-
----
-
-## 📝 Get in Touch  
-- 📫 Reach me via email: [nimashmanawa2002@gmail.com](mailto:nimashmanawa2002@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/nimash-dilshan](https://www.linkedin.com/in/nimash-dilshan-36b973305/)  
-
----
-
-![Nimash's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimashXDilshan&show_icons=true&theme=dark)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nimashXDilshan&theme=dark)  
-![trophy](https://github-profile-trophy.vercel.app/?username=nimashXDilshan&theme=darkhub)  
-
-Thanks for visiting my profile! 😊 Let’s connect and build something amazing together!  
+<div align="center">
+  <i>Thanks for visiting my profile! Let's build something amazing together! 🚀</i>
+</div>
