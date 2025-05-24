@@ -5,9 +5,9 @@
 📫 Reach me anytime at: [nimashmanawa2002@gmail.com](mailto:nimashmanawa2002@gmail.com)  
 💬 Love talking about **Web Development**, **Tech Trends**, and **Startups**
 
-![Profile views](https://img.shields.io/badge/Profile%20Views-1234-blue?style=flat&logo=github)
+## 🏆 Certificates
+- [Docker Certified Training Course (DCA)](https://example-link.com)
 
----
 
 ## 🌐 Connect With Me
 
